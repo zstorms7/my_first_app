@@ -6,7 +6,7 @@ import streamlit as st
 penguins_df = pd.read_csv('penguins.csv')
 
 # Title and description
-st.title("Palmer's Penguins")
+st.title("Zach's Penguins")
 st.markdown("Use this Streamlit app to make your own scatterplot about penguins!")
 
 # Numeric feature selection
